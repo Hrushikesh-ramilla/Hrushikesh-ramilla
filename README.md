@@ -58,10 +58,10 @@ Designing systems that hold under real-world constraints.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/3F6E73" width="28" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="26" style="filter: invert(44%) sepia(18%) saturate(500%) hue-rotate(135deg);" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ramillahrushikesh@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/3F6E73" width="28" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="26" style="filter: invert(44%) sepia(18%) saturate(500%) hue-rotate(135deg);" />
   </a>
 </p>
