@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f14,50:16242b,100:1f3a40&height=80&section=header&text=&fontSize=0&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f14,50:16242b,100:1f3a40&height=80&section=header&text=&fontSize=0" />
 </p>
 
 <h1 align="center">Hrushikesh Ramilla</h1>
@@ -9,10 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=views&color=3F6E73&style=flat" />
+  <a href="https://hrushikeshramilla.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3F6E73?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=views&color=3F6E73&style=flat" />
+</p>
 
 ## About
 
