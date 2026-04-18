@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f14,50:16242b,100:1f3a40&height=80&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f14,50:16242b,100:1f3a40&height=80&section=header&text=&fontSize=0&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hrushikesh Ramilla</h1>
