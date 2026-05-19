@@ -60,6 +60,16 @@ Designing systems that hold under real-world constraints.
 
 ---
 
+
+## Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh-ramilla&layout=compact&bg_color=0D1117&title_color=3F6E73&text_color=5A6B6B&border_color=0D1117&hide_border=true&langs_count=8"
+    height="170"
+  />
+</p>
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
