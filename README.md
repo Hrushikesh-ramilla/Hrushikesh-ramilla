@@ -5,55 +5,31 @@
 <h1 align="center">Hrushikesh Ramilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=488287&center=true&vCenter=true&width=550&lines=Systems+%26+Infrastructure+Engineer;Low-Level+Performance+%26+Concurrency;Distributed+Systems+%26+Storage;Codeforces+Candidate+Master+(max+1965);Designing+systems+under+real-world+constraints" alt="Typing Title" />
+  Precision. Performance. Reliability.
 </p>
 
 <p align="center">
   <a href="https://hrushikeshramilla.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3F6E73?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3F6E73" />
-  </a>
-  &nbsp;
-  <a href="mailto:ramillahrushikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3F6E73" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=views&color=3F6E73&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=views&color=3F6E73&style=flat" />
+</p>
 
 ## About
 
-Systems and backend engineer with a rigorous foundation in algorithms and low-level computing. Focused on building high-performance, resource-efficient infrastructure and services designed to operate reliably under real-world constraints.
+- Systems and backend-focused engineer with strong algorithmic foundations  
+- Work spans storage, scheduling, and infrastructure-oriented systems  
+- Experience across low-level components and performance-critical paths  
+- Competitive programming background with a focus on problem solving  
 
-- **Systems & Architecture**: Distributed scheduling, high-throughput pipelines, and custom storage components.
-- **Performance & Optimization**: Latency profiling, memory management, lock-free concurrency, and Linux systems programming.
-- **Algorithmic Problem Solving**: Competitive programming background with deep focus on algorithmic complexity, optimal space-time tradeoffs, and invariant-driven design.
-
----
-
-## Technical Arsenal
-
-| Domain | Technologies & Core Competencies |
-| :--- | :--- |
-| **Languages** | `C++` &bull; `Python` &bull; `TypeScript` &bull; `Go` &bull; `C` &bull; `SQL` &bull; `Bash` |
-| **Systems & Backend** | Linux Systems Programming, Concurrency & Multithreading, Distributed Schedulers, POSIX APIs, Storage Engines |
-| **Databases & Caching** | `PostgreSQL` &bull; `Redis` &bull; `MongoDB` &bull; Key-Value Storage Stores |
-| **Infrastructure & Tooling** | `Docker` &bull; `Git` &bull; `CMake` &bull; `Linux CLI` &bull; CI/CD Pipelines &bull; GDB &bull; Perf Profiling |
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,go,postgres,redis,mongodb,docker,linux,git,bash,cmake&theme=dark" />
-</p>
+Designing systems that hold under real-world constraints.
 
 ---
 
-## Algorithms & Benchmarks
+## Algorithms
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=3F6E73&textColor=5A6B6B" height="165"/>
@@ -72,6 +48,14 @@ Systems and backend engineer with a rigorous foundation in algorithms and low-le
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=3F6E73&ring=3F6E73&currStreakNum=FFFFFF&sideNums=5A6B6B&sideLabels=5A6B6B&dates=5A6B6B&hide_border=true"/>
+</p>
+
+---
+
+## Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,nodejs,linux,mongodb,git&theme=dark" />
 </p>
 
 ---
