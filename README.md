@@ -5,7 +5,7 @@
 <h1 align="center">Hrushikesh Ramilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F6E73&center=true&vCenter=true&width=550&lines=Systems+%26+Infrastructure+Engineer;Low-Level+Performance+%26+Concurrency;Distributed+Systems+%26+Storage;Codeforces+Candidate+Master+(max+1965);Designing+systems+under+real-world+constraints" alt="Typing Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=488287&center=true&vCenter=true&width=550&lines=Systems+%26+Infrastructure+Engineer;Low-Level+Performance+%26+Concurrency;Distributed+Systems+%26+Storage;Codeforces+Candidate+Master+(max+1965);Designing+systems+under+real-world+constraints" alt="Typing Title" />
 </p>
 
 <p align="center">
