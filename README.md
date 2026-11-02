@@ -20,9 +20,7 @@
 
 ## About
 
-<p align="center">
-  <img src="assets/cowboy.jpg" width="460" alt="Hrushikesh Ramilla" />
-</p>
+
 
 ---
 
