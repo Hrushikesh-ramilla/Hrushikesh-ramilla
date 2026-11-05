@@ -20,12 +20,12 @@
 
 ## About
 
-- Systems and backend-focused engineer with strong algorithmic foundations  
-- Work spans storage, scheduling, and infrastructure-oriented systems  
-- Experience across low-level components and performance-critical paths  
-- Competitive programming background with a focus on problem solving  
+- Computer Science student with strong algorithmic foundations and a passion for building software  
+- Active open-source contributor with pull requests spanning diverse developer tools, systems, and web projects  
+- Hands-on experience building projects across the stack &mdash; from backend services to modern user-facing applications  
+- Enjoys writing clean, maintainable code and understanding how systems work under the hood  
 
-Designing systems that hold under real-world constraints.
+Always building, learning, and exploring new challenges across software engineering.
 
 ---
 
