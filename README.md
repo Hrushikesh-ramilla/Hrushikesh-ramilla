@@ -55,9 +55,22 @@ Designing systems that hold under real-world constraints.
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,java,ts,js,bash,linux,docker,kubernetes,cloudflare,git,githubactions,cmake,nodejs,react,nextjs,fastapi,tailwind,threejs,electron,tauri,tensorflow,pytorch,postgres,mongodb,redis,sqlite&perline=10&theme=dark" />
+  <b>Languages & Systems</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,java,ts,js,bash,linux&theme=dark" /><br/>
+  <sub>C &bull; C++ &bull; Rust &bull; Go &bull; Python &bull; Java &bull; TypeScript &bull; JavaScript &bull; Bash &bull; Linux</sub>
 </p>
 
+<p align="center">
+  <b>Cloud, DevOps & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,git,githubactions,cmake,nodejs,react,nextjs,fastapi&theme=dark" /><br/>
+  <sub>Docker &bull; Kubernetes &bull; Cloudflare &bull; Git &bull; GitHub Actions &bull; CMake &bull; Node.js &bull; React &bull; Next.js &bull; FastAPI</sub>
+</p>
+
+<p align="center">
+  <b>AI/ML, Desktop & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,electron,tauri,tensorflow,pytorch,postgres,mongodb,redis,sqlite&theme=dark" /><br/>
+  <sub>Tailwind CSS &bull; Three.js &bull; Electron &bull; Tauri &bull; TensorFlow &bull; PyTorch &bull; PostgreSQL &bull; MongoDB &bull; Redis &bull; SQLite</sub>
+</p>
 ---
 
 <p align="center">
