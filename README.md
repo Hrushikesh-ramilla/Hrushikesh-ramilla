@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero_terminal.png" width="100%" alt="noir terminal" />
+  <img src="./hero_terminal.png" width="100%" alt="terminal hero" />
 </p>
 
 <p align="center">
@@ -11,12 +11,18 @@
     <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-16242B?style=for-the-badge&logo=linkedin&logoColor=3F6E73" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ramillahrushikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hello_↗-16242B?style=for-the-badge&logo=gmail&logoColor=3F6E73" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=3F6E73&style=for-the-badge" height="34" />
 </p>
 
----
+<p align="center">
+  <img src="./divider.png" width="100%" />
+</p>
 
-## Algorithms
+## ⚡ Algorithms & Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
@@ -42,52 +48,147 @@
   <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=3F6E73&ring=3F6E73&currStreakNum=FFFFFF&sideNums=5A6B6B&sideLabels=5A6B6B&dates=5A6B6B&hide_border=true" height="165"/>
 </p>
 
----
+<p align="center">
+  <img src="./divider.png" width="100%" />
+</p>
 
-## Technologies
+## 🛠️ Flagship Systems & Engineering
 
 <div align="center">
-<table align="center">
+<table width="100%">
   <tr>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=c" width="42" height="42" /><br/><sub><b>C</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=cpp" width="42" height="42" /><br/><sub><b>C++</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=rust" width="42" height="42" /><br/><sub><b>Rust</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=go" width="42" height="42" /><br/><sub><b>Go</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" /><br/><sub><b>Python</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=java" width="42" height="42" /><br/><sub><b>Java</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" /><br/><sub><b>TypeScript</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=js" width="42" height="42" /><br/><sub><b>JavaScript</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=bash" width="42" height="42" /><br/><sub><b>Bash</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=linux" width="42" height="42" /><br/><sub><b>Linux</b></sub></td>
+    <th width="35%" align="left">🚀 System / Engine</th>
+    <th width="45%" align="left">📖 Architecture &amp; Highlights</th>
+    <th width="20%" align="center">🏷️ Core Stack</th>
   </tr>
   <tr>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" /><br/><sub><b>Docker</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" /><br/><sub><b>Kubernetes</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="42" height="42" /><br/><sub><b>Cloudflare</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" /><br/><sub><b>Git</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" /><br/><sub><b>GitHub Actions</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=cmake" width="42" height="42" /><br/><sub><b>CMake</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" /><br/><sub><b>Node.js</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" /><br/><sub><b>React</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" /><br/><sub><b>Next.js</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" /><br/><sub><b>FastAPI</b></sub></td>
+    <td align="left">
+      <b><a href="https://github.com/Hrushikesh-ramilla/NullRing">NullRing</a></b><br/>
+      <sub>Ultra-low latency execution engine</sub>
+    </td>
+    <td align="left">
+      Achieves <b>sub-200ns processing</b> with zero runtime allocations, lock-free ring design, and explicit memory ordering for hardware-constrained systems.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
   </tr>
   <tr>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" /><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=threejs" width="42" height="42" /><br/><sub><b>Three.js</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=electron" width="42" height="42" /><br/><sub><b>Electron</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=tauri" width="42" height="42" /><br/><sub><b>Tauri</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42" /><br/><sub><b>TensorFlow</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="42" height="42" /><br/><sub><b>PyTorch</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" /><br/><sub><b>MongoDB</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=redis" width="42" height="42" /><br/><sub><b>Redis</b></sub></td>
-    <td width="88" align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="42" height="42" /><br/><sub><b>SQLite</b></sub></td>
+    <td align="left">
+      <b><a href="https://github.com/Hrushikesh-ramilla/AccretionDB">AccretionDB</a></b><br/>
+      <sub>Log-structured KV storage engine</sub>
+    </td>
+    <td align="left">
+      WiscKey-inspired design that decouples keys and values to minimize write amplification and optimize SSD bandwidth and crash consistency.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b><a href="https://github.com/Hrushikesh-ramilla/OrionScheduler">OrionScheduler</a></b><br/>
+      <sub>Crash-consistent DAG engine</sub>
+    </td>
+    <td align="left">
+      Deterministic workflow orchestration under concurrency with single-owner event loops and Write-Ahead Log (WAL) recovery.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <b><a href="https://github.com/Hrushikesh-ramilla/RaftNova">RaftNova</a></b><br/>
+      <sub>Distributed consensus algorithm</sub>
+    </td>
+    <td align="left">
+      Raft-backed state machine replication, leader election, log compaction, and deterministic fault tolerance under network partitions.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    </td>
   </tr>
 </table>
 </div>
 
----
+<p align="center">
+  <img src="./divider.png" width="100%" />
+</p>
+
+## 🌐 Open Source Footprint (230+ PRs)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-ClickHouse-yellow?style=flat-square&logo=clickhouse&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/simdjson-SIMD_JSON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/simdutf-Unicode_Transcoder-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Google-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/ORAS-Artifact_Spec-00ADD8?style=flat-square&logo=go&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TanStack-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Zen_Browser-Desktop-FF7139?style=flat-square&logo=firefox&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Checkstyle-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Fastify-Framework-black?style=flat-square&logo=fastify&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="./divider.png" width="100%" />
+</p>
+
+## 💻 Technical Arsenal
+
+<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=c" width="42" height="42" /><br/><sub><b>C</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=cpp" width="42" height="42" /><br/><sub><b>C++</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=rust" width="42" height="42" /><br/><sub><b>Rust</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=go" width="42" height="42" /><br/><sub><b>Go</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" /><br/><sub><b>Python</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=java" width="42" height="42" /><br/><sub><b>Java</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" /><br/><sub><b>TypeScript</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=js" width="42" height="42" /><br/><sub><b>JavaScript</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=bash" width="42" height="42" /><br/><sub><b>Bash</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=linux" width="42" height="42" /><br/><sub><b>Linux</b></sub></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" /><br/><sub><b>Docker</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" /><br/><sub><b>Kubernetes</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="42" height="42" /><br/><sub><b>Cloudflare</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" /><br/><sub><b>Git</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" /><br/><sub><b>GitHub Actions</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=cmake" width="42" height="42" /><br/><sub><b>CMake</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" /><br/><sub><b>Node.js</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" /><br/><sub><b>React</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" /><br/><sub><b>Next.js</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" /><br/><sub><b>FastAPI</b></sub></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" /><br/><sub><b>Tailwind CSS</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=threejs" width="42" height="42" /><br/><sub><b>Three.js</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=electron" width="42" height="42" /><br/><sub><b>Electron</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=tauri" width="42" height="42" /><br/><sub><b>Tauri</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="42" height="42" /><br/><sub><b>PyTorch</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" /><br/><sub><b>MongoDB</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=redis" width="42" height="42" /><br/><sub><b>Redis</b></sub></td>
+    <td width="10%" align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="42" height="42" /><br/><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="./divider.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./footer.png" width="100%" alt="owl footer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
