@@ -4,25 +4,25 @@
 
 <p align="center">
   <a href="https://hrushikeshramilla.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-3F6E73?style=for-the-badge&logo=google-chrome&logoColor=white" height="34" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-16242B?style=for-the-badge&logo=linkedin&logoColor=3F6E73" height="34" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ramillahrushikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello_↗-16242B?style=for-the-badge&logo=gmail&logoColor=3F6E73" height="34" />
+    <img src="https://img.shields.io/badge/Say_Hello_↗-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=3F6E73&style=for-the-badge" height="34" />
+  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=38BDF8&style=for-the-badge" height="34" />
 </p>
 
 <p align="center">
   <img src="./divider.png" width="100%" />
 </p>
 
-## ⚡ Algorithms & Problem Solving
+## ⚡ Algorithms & Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
@@ -39,13 +39,17 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=3F6E73&textColor=5A6B6B" height="195"/>
+  <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=38BDF8&textColor=94A3B8" height="195"/>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=0D1117&title_color=3F6E73&text_color=5A6B6B&border_color=0D1117&disable_animations=true" height="195"/>
+  <a href="https://codeforces.com/profile/101Noir" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=0D1117&disable_animations=true" height="195"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=3F6E73&ring=3F6E73&currStreakNum=FFFFFF&sideNums=5A6B6B&sideLabels=5A6B6B&dates=5A6B6B&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=38BDF8&ring=818CF8&currStreakNum=FFFFFF&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -57,8 +61,8 @@
 <div align="center">
 <table width="100%">
   <tr>
-    <th width="35%" align="left">🚀 System / Engine</th>
-    <th width="45%" align="left">📖 Architecture &amp; Highlights</th>
+    <th width="32%" align="left">🚀 System / Engine</th>
+    <th width="48%" align="left">📖 Architecture &amp; Highlights</th>
     <th width="20%" align="center">🏷️ Core Stack</th>
   </tr>
   <tr>
@@ -118,22 +122,50 @@
 
 ## 🌐 Open Source Footprint (230+ PRs)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ClickHouse-ClickHouse-yellow?style=flat-square&logo=clickhouse&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/simdjson-SIMD_JSON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/simdutf-Unicode_Transcoder-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Google-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/ORAS-Artifact_Spec-00ADD8?style=flat-square&logo=go&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TanStack-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Zen_Browser-Desktop-FF7139?style=flat-square&logo=firefox&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Checkstyle-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Fastify-Framework-black?style=flat-square&logo=fastify&logoColor=white" />
-</p>
+<div align="center">
+<table width="100%">
+  <tr>
+    <th width="32%" align="left">📂 Domain</th>
+    <th width="68%" align="left">🌟 Key Contributions &amp; Repositories</th>
+  </tr>
+  <tr>
+    <td align="left"><b>🏎️ Storage &amp; Database Engines</b></td>
+    <td align="left">
+      <a href="https://github.com/ClickHouse/ClickHouse" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-ClickHouse-F4CA16?style=flat-square&logo=clickhouse&logoColor=black" /></a>&nbsp;
+      <a href="https://github.com/facebookincubator/velox" target="_blank"><img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
+      <br/><sub>Analytical execution kernels, memory managers, and vectorized query operators.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>⚡ Compilers &amp; SIMD Acceleration</b></td>
+    <td align="left">
+      <a href="https://github.com/simdjson/simdjson" target="_blank"><img src="https://img.shields.io/badge/simdjson-SIMD_JSON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/simdutf/simdutf" target="_blank"><img src="https://img.shields.io/badge/simdutf-Unicode_Transcoder-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/tensorflow/tensorflow" target="_blank"><img src="https://img.shields.io/badge/Google-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+      <br/><sub>AVX-512 / ARM Neon vectorization, unicode transcoding pipelines, and kernel optimizations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>☁️ Cloud-Native &amp; Infrastructure</b></td>
+    <td align="left">
+      <a href="https://github.com/stakater/Reloader" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/oras-project/oras" target="_blank"><img src="https://img.shields.io/badge/ORAS-Artifact_Spec-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/checkstyle/checkstyle" target="_blank"><img src="https://img.shields.io/badge/Checkstyle-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
+      <br/><sub>OCI container artifact specs, controller reconciliation, and static analysis tooling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>🌐 Web Ecosystem &amp; Frameworks</b></td>
+    <td align="left">
+      <a href="https://github.com/TanStack/query" target="_blank"><img src="https://img.shields.io/badge/TanStack-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/zen-browser/desktop" target="_blank"><img src="https://img.shields.io/badge/Zen_Browser-Desktop-FF7139?style=flat-square&logo=firefox&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/fastify/fastify" target="_blank"><img src="https://img.shields.io/badge/Fastify-Framework-black?style=flat-square&logo=fastify&logoColor=white" /></a>
+      <br/><sub>Async state management, high-performance HTTP pipelines, and modern browser internals.</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
   <img src="./divider.png" width="100%" />
