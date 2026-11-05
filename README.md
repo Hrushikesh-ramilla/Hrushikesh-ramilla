@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero_terminal.png" width="100%" alt="terminal hero" />
+  <img src="./assets/hero.png" width="100%" alt="terminal hero" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.png" width="100%" />
+  <img src="./assets/line.png" width="100%" />
 </p>
 
 ## ⚡ Algorithms & Competitive Programming
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.png" width="100%" />
+  <img src="./assets/line.png" width="100%" />
 </p>
 
 ## 🛠️ Flagship Systems & Engineering
@@ -117,7 +117,7 @@
 </div>
 
 <p align="center">
-  <img src="./divider.png" width="100%" />
+  <img src="./assets/line.png" width="100%" />
 </p>
 
 ## 🌐 Open Source Footprint (230+ PRs)
@@ -168,7 +168,7 @@
 </div>
 
 <p align="center">
-  <img src="./divider.png" width="100%" />
+  <img src="./assets/line.png" width="100%" />
 </p>
 
 ## 💻 Technical Arsenal
@@ -215,11 +215,11 @@
 </div>
 
 <p align="center">
-  <img src="./divider.png" width="100%" />
+  <img src="./assets/line.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./footer.png" width="100%" alt="owl footer" />
+  <img src="./assets/footer.png" width="100%" alt="owl footer" />
 </p>
 
 <p align="center">
