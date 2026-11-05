@@ -32,22 +32,27 @@ Designing systems that hold under real-world constraints.
 ## Algorithms
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=3F6E73&textColor=5A6B6B" height="165"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=0D1117&title_color=3F6E73&text_color=5A6B6B&border_color=0D1117&disable_animations=true" height="165"/>
+  <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%202255-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/101Noir" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Candidate%20Master%20%7C%201965-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5%E2%98%85%20%7C%202081-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="30"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-5★%20%7C%202081-0D1117?style=flat-square&logo=codechef&logoColor=3F6E73" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrushikesh-ramilla&bg_color=0D1117&color=5A6B6B&line=3F6E73&point=FFFFFF&area=true&hide_border=true&title_color=3F6E73"/>
+  <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=3F6E73&textColor=5A6B6B" height="195"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=0D1117&title_color=3F6E73&text_color=5A6B6B&border_color=0D1117&disable_animations=true" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=3F6E73&ring=3F6E73&currStreakNum=FFFFFF&sideNums=5A6B6B&sideLabels=5A6B6B&dates=5A6B6B&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=3F6E73&ring=3F6E73&currStreakNum=FFFFFF&sideNums=5A6B6B&sideLabels=5A6B6B&dates=5A6B6B&hide_border=true" height="165"/>
 </p>
 
 ---
