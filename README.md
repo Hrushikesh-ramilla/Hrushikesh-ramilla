@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hrushikesh-ramilla/Hrushikesh-ramilla/main/hero_terminal.svg" width="100%" alt="noir terminal" />
+  <img src="./hero_terminal.svg" width="100%" alt="noir terminal" />
 </p>
 
 <p align="center">
