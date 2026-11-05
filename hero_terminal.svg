@@ -27,7 +27,7 @@
     <!-- Prompt 1 -->
     <text x="25" y="66" fill="#3F6E73" font-weight="600">$</text>
     <text x="42" y="66" fill="#e6edf3" font-weight="500">whoami</text>
-    <text x="25" y="90" fill="#8b949e">↳ Systems &amp; Infrastructure Architect &bull; Competitive Programmer &bull; Core OSS Contributor</text>
+    <text x="25" y="90" fill="#8b949e">↳ Systems &amp; Infrastructure Architect • Competitive Programmer • Core OSS Contributor</text>
 
     <!-- Prompt 2 -->
     <text x="25" y="126" fill="#3F6E73" font-weight="600">$</text>

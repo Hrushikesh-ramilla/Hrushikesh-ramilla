@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero_terminal.svg" width="100%" alt="noir terminal" />
+  <img src="./hero_terminal.png" width="100%" alt="noir terminal" />
 </p>
 
 <p align="center">
