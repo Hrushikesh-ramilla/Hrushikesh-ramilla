@@ -1,33 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f14,50:16242b,100:1f3a40&height=80&section=header&text=&fontSize=0&animation=fadeIn" />
-</p>
-
-<h1 align="center">Hrushikesh Ramilla</h1>
-
-<p align="center">
-  Precision. Performance. Reliability.
+  <img src="https://raw.githubusercontent.com/Hrushikesh-ramilla/Hrushikesh-ramilla/main/hero_terminal.svg" width="100%" alt="noir terminal" />
 </p>
 
 <p align="center">
   <a href="https://hrushikeshramilla.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3F6E73?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-3F6E73?style=for-the-badge&logo=google-chrome&logoColor=white" height="34" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-16242B?style=for-the-badge&logo=linkedin&logoColor=3F6E73" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=3F6E73&style=for-the-badge" height="34" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=views&color=3F6E73&style=flat" />
-</p>
-
-## About
-
-Systems and infrastructure engineer focused on low-level performance, storage architectures, and distributed execution. Active open-source contributor with **230+ pull requests** across industry-standard databases, query engines, and AI infrastructure. Grounded in competitive programming and mathematical problem-solving.
-
-- **Low-Latency & Storage Systems**: Architecting cache-aware, lock-free C++20 execution engines ([NullRing](https://github.com/Hrushikesh-ramilla/NullRing)) and SSD-tailored log-structured KV stores ([AccretionDB](https://github.com/Hrushikesh-ramilla/AccretionDB)).
-- **Distributed Orchestration**: Building crash-consistent DAG engines ([OrionScheduler](https://github.com/Hrushikesh-ramilla/OrionScheduler)) and Raft consensus implementations ([RaftNova](https://github.com/Hrushikesh-ramilla/RaftNova)).
-- **Open Source Impact**: Contributed to `ClickHouse`, `Velox`, `simdjson`, `simdutf`, `TensorFlow`, `llama.cpp`, `Reloader`, and `ORAS`.
-- **Algorithmic Foundations**: LeetCode **Guardian** (Rating: 2255, Top 0.69%) &bull; Codeforces **Candidate Master** (Peak: 1965) &bull; CodeChef **5★** (Rating: 2081).
-
-*Designing systems that hold under real-world constraints.*
 
 ---
 
