@@ -54,23 +54,66 @@ Designing systems that hold under real-world constraints.
 
 ## Technologies
 
-<p align="center">
-  <b>Languages & Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,java,ts,js,bash,linux&theme=dark" /><br/>
-  <sub>C &bull; C++ &bull; Rust &bull; Go &bull; Python &bull; Java &bull; TypeScript &bull; JavaScript &bull; Bash &bull; Linux</sub>
-</p>
+<table>
+  <tr>
+    <th colspan="5" align="center">Languages &amp; Systems</th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=c" width="38" height="38" /><br/><sub><b>C</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=cpp" width="38" height="38" /><br/><sub><b>C++</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=rust" width="38" height="38" /><br/><sub><b>Rust</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=go" width="38" height="38" /><br/><sub><b>Go</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=python" width="38" height="38" /><br/><sub><b>Python</b></sub></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=java" width="38" height="38" /><br/><sub><b>Java</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=ts" width="38" height="38" /><br/><sub><b>TypeScript</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=js" width="38" height="38" /><br/><sub><b>JavaScript</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=bash" width="38" height="38" /><br/><sub><b>Bash</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=linux" width="38" height="38" /><br/><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>Cloud, DevOps & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,git,githubactions,cmake,nodejs,react,nextjs,fastapi&theme=dark" /><br/>
-  <sub>Docker &bull; Kubernetes &bull; Cloudflare &bull; Git &bull; GitHub Actions &bull; CMake &bull; Node.js &bull; React &bull; Next.js &bull; FastAPI</sub>
-</p>
+<table>
+  <tr>
+    <th colspan="5" align="center">Cloud, DevOps &amp; Frameworks</th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=docker" width="38" height="38" /><br/><sub><b>Docker</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="38" height="38" /><br/><sub><b>Kubernetes</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="38" height="38" /><br/><sub><b>Cloudflare</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=git" width="38" height="38" /><br/><sub><b>Git</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="38" height="38" /><br/><sub><b>GitHub Actions</b></sub></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=cmake" width="38" height="38" /><br/><sub><b>CMake</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="38" height="38" /><br/><sub><b>Node.js</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=react" width="38" height="38" /><br/><sub><b>React</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="38" height="38" /><br/><sub><b>Next.js</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="38" height="38" /><br/><sub><b>FastAPI</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>AI/ML, Desktop & Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,threejs,electron,tauri,tensorflow,pytorch,postgres,mongodb,redis,sqlite&theme=dark" /><br/>
-  <sub>Tailwind CSS &bull; Three.js &bull; Electron &bull; Tauri &bull; TensorFlow &bull; PyTorch &bull; PostgreSQL &bull; MongoDB &bull; Redis &bull; SQLite</sub>
-</p>
+<table>
+  <tr>
+    <th colspan="5" align="center">AI/ML, Desktop &amp; Databases</th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="38" height="38" /><br/><sub><b>Tailwind CSS</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=threejs" width="38" height="38" /><br/><sub><b>Three.js</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=electron" width="38" height="38" /><br/><sub><b>Electron</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=tauri" width="38" height="38" /><br/><sub><b>Tauri</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="38" height="38" /><br/><sub><b>TensorFlow</b></sub></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="38" height="38" /><br/><sub><b>PyTorch</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=postgres" width="38" height="38" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="38" height="38" /><br/><sub><b>MongoDB</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=redis" width="38" height="38" /><br/><sub><b>Redis</b></sub></td>
+    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="38" height="38" /><br/><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
+
 ---
 
 <p align="center">
