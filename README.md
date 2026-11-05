@@ -20,12 +20,14 @@
 
 ## About
 
-- Computer Science student with strong algorithmic foundations and a passion for building software  
-- Active open-source contributor with pull requests spanning diverse developer tools, systems, and web projects  
-- Hands-on experience building projects across the stack &mdash; from backend services to modern user-facing applications  
-- Enjoys writing clean, maintainable code and understanding how systems work under the hood  
+Systems and infrastructure engineer focused on low-level performance, storage architectures, and distributed execution. Active open-source contributor with **230+ pull requests** across industry-standard databases, query engines, and AI infrastructure. Grounded in competitive programming and mathematical problem-solving.
 
-Always building, learning, and exploring new challenges across software engineering.
+- **Low-Latency & Storage Systems**: Architecting cache-aware, lock-free C++20 execution engines ([NullRing](https://github.com/Hrushikesh-ramilla/NullRing)) and SSD-tailored log-structured KV stores ([AccretionDB](https://github.com/Hrushikesh-ramilla/AccretionDB)).
+- **Distributed Orchestration**: Building crash-consistent DAG engines ([OrionScheduler](https://github.com/Hrushikesh-ramilla/OrionScheduler)) and Raft consensus implementations ([RaftNova](https://github.com/Hrushikesh-ramilla/RaftNova)).
+- **Open Source Impact**: Contributed to `ClickHouse`, `Velox`, `simdjson`, `simdutf`, `TensorFlow`, `llama.cpp`, `Reloader`, and `ORAS`.
+- **Algorithmic Foundations**: LeetCode **Guardian** (Rating: 2255, Top 0.69%) &bull; Codeforces **Candidate Master** (Peak: 1965) &bull; CodeChef **5★** (Rating: 2081).
+
+*Designing systems that hold under real-world constraints.*
 
 ---
 
