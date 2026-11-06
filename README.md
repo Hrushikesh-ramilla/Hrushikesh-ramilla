@@ -139,7 +139,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/anim_wave.svg" width="100%" alt="waveform divider" />
+  <img src="./assets/anim_spectrum.svg" width="100%" alt="harmonic spectrum divider" />
 </p>
 
 <p align="center">
