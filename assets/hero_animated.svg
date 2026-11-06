@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 205" width="850" height="205" fill="none">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141517"/>
+      <stop offset="100%" stop-color="#0e0f10"/>
+    </linearGradient>
+
+    <!-- Animated Shimmering Border Gradient -->
+    <linearGradient id="animatedBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0.35">
+        <animate attributeName="stop-color" values="#DEC5A7;#F6F5F1;#DEC5A7" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.85">
+        <animate attributeName="stop-color" values="#F6F5F1;#DEC5A7;#F6F5F1" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0.85;0.45;0.85" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0.35">
+        <animate attributeName="stop-color" values="#DEC5A7;#F6F5F1;#DEC5A7" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Subtle Moving Ray -->
+    <linearGradient id="movingRay" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Border Frame -->
+  <rect x="1" y="1" width="848" height="203" rx="10" fill="url(#termBg)" stroke="url(#animatedBorder)" stroke-width="1.3"/>
+
+  <!-- Top Bar -->
+  <path d="M 1 11 C 1 5.5 5.5 1 11 1 L 839 1 C 844.5 1 849 5.5 849 11 L 849 34 L 1 34 Z" fill="#18191B"/>
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#2A2824" stroke-width="1"/>
+
+  <!-- Refined Window Dots with Glowing Amber Accent -->
+  <circle cx="20" cy="17" r="5" fill="#A8927D" fill-opacity="0.8"/>
+  <circle cx="36" cy="17" r="5" fill="#DEC5A7" fill-opacity="0.8"/>
+  <circle cx="52" cy="17" r="5" fill="#F6F5F1" fill-opacity="0.9">
+    <animate attributeName="fill-opacity" values="0.9;0.5;0.9" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="425" y="22" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="12" font-weight="500" letter-spacing="0.5" text-anchor="middle">hrushikesh@desktop: ~ (bash)</text>
+
+  <!-- Commands & Off-White / Beige Output -->
+  <g font-family="'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13">
+    <!-- Command 1 -->
+    <text x="26" y="62" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="46" y="62" fill="#A8927D" font-weight="600">~</text>
+    <text x="64" y="62" fill="#F6F5F1">whoami</text>
+    <text x="26" y="86" fill="#F6F5F1" font-weight="600">Hrushikesh Ramilla</text>
+    <text x="185" y="86" fill="#A8927D">— Software Engineer (Backend &amp; Systems)</text>
+
+    <!-- Command 2 -->
+    <text x="26" y="118" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="46" y="118" fill="#A8927D" font-weight="600">~</text>
+    <text x="64" y="118" fill="#F6F5F1">./summary.sh</text>
+
+    <text x="26" y="142" fill="#DEC5A7" font-weight="600">Focus</text>
+    <text x="105" y="142" fill="#F6F5F1">: Backend Development • Systems Engineering • System Design</text>
+
+    <text x="26" y="164" fill="#DEC5A7" font-weight="600">Languages</text>
+    <text x="105" y="164" fill="#F6F5F1">: C++, Go, Java, Python, TypeScript, SQL</text>
+
+    <text x="26" y="186" fill="#DEC5A7" font-weight="600">Interests</text>
+    <text x="105" y="186" fill="#F6F5F1">: Distributed Systems, Scalable Backends, Algorithms</text>
+
+    <!-- Animated Blinking Cursor -->
+    <rect x="525" y="174" width="8" height="14" fill="#DEC5A7">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

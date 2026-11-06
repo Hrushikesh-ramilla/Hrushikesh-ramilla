@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/hero_v4.png" width="100%" alt="terminal hero" />
+  <img src="./assets/hero_animated.svg" width="100%" alt="terminal hero animated" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=DEC5A7&background=14151700&center=true&vCenter=true&width=750&height=45&lines=Software+Engineer+(Backend+%26+Systems);Distributed+Systems+%E2%80%A2+System+Design+%E2%80%A2+Scalable+Backends;C%2B%2B+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+SQL;Guardian+%40+LeetCode+(2255)+%E2%80%A2+Candidate+Master+%40+CF+(1965)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/line_v4.png" width="100%" />
+  <img src="./assets/line_animated.svg" width="100%" />
 </p>
 
 ## ⚡ Algorithms & Competitive Programming
@@ -44,7 +48,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/101Noir" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=141517&title_color=DEC5A7&text_color=D1C7BB&border_color=242220&disable_animations=true" height="195"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=141517&title_color=DEC5A7&text_color=D1C7BB&border_color=242220&disable_animations=false" height="195"/>
   </a>
 </p>
 
@@ -53,7 +57,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/line_v4.png" width="100%" />
+  <img src="./assets/line_animated.svg" width="100%" />
+</p>
+
+## 🐍 Contribution Stream
+
+<p align="center">
+  <img src="./assets/snake.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="./assets/line_animated.svg" width="100%" />
 </p>
 
 ## 🌐 Open Source Contributions
@@ -92,7 +106,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line_v4.png" width="100%" />
+  <img src="./assets/line_animated.svg" width="100%" />
 </p>
 
 ## 💻 Technical Arsenal
@@ -139,9 +153,9 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line_v4.png" width="100%" />
+  <img src="./assets/line_animated.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/footer_v4.png" width="100%" alt="footer" />
+  <img src="./assets/footer_animated.svg" width="100%" alt="footer" />
 </p>
