@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="terminal hero" />
+  <img src="./assets/hero_v3.png" width="100%" alt="terminal hero" />
 </p>
 
 <p align="center">
@@ -56,22 +56,22 @@
   <img src="./assets/line.png" width="100%" />
 </p>
 
-## 🛠️ Flagship Systems & Engineering
+## 🛠️ Featured Systems & Backend Projects
 
 <div align="center">
 <table width="100%">
   <tr>
-    <th width="32%" align="left">🚀 System / Engine</th>
-    <th width="48%" align="left">📖 Architecture &amp; Highlights</th>
-    <th width="20%" align="center">🏷️ Core Stack</th>
+    <th width="32%" align="left">Project</th>
+    <th width="48%" align="left">Architecture &amp; Key Highlights</th>
+    <th width="20%" align="center">Core Stack</th>
   </tr>
   <tr>
     <td align="left">
       <b><a href="https://github.com/Hrushikesh-ramilla/NullRing">NullRing</a></b><br/>
-      <sub>Ultra-low latency execution engine</sub>
+      <sub>High-throughput execution engine</sub>
     </td>
     <td align="left">
-      Achieves <b>sub-200ns processing</b> with zero runtime allocations, lock-free ring design, and explicit memory ordering for hardware-constrained systems.
+      Lock-free ring buffer architecture achieving sub-microsecond processing with zero runtime allocations and explicit memory ordering.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -80,10 +80,10 @@
   <tr>
     <td align="left">
       <b><a href="https://github.com/Hrushikesh-ramilla/AccretionDB">AccretionDB</a></b><br/>
-      <sub>Log-structured KV storage engine</sub>
+      <sub>Log-structured key-value store</sub>
     </td>
     <td align="left">
-      WiscKey-inspired design that decouples keys and values to minimize write amplification and optimize SSD bandwidth and crash consistency.
+      Decoupled key-value storage design that separates keys and values to reduce write amplification and maximize storage bandwidth.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -92,10 +92,10 @@
   <tr>
     <td align="left">
       <b><a href="https://github.com/Hrushikesh-ramilla/OrionScheduler">OrionScheduler</a></b><br/>
-      <sub>Crash-consistent DAG engine</sub>
+      <sub>DAG workflow execution engine</sub>
     </td>
     <td align="left">
-      Deterministic workflow orchestration under concurrency with single-owner event loops and Write-Ahead Log (WAL) recovery.
+      Deterministic workflow orchestration engine featuring Write-Ahead Logging (WAL) for crash consistency and state recovery.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -104,10 +104,10 @@
   <tr>
     <td align="left">
       <b><a href="https://github.com/Hrushikesh-ramilla/RaftNova">RaftNova</a></b><br/>
-      <sub>Distributed consensus algorithm</sub>
+      <sub>Distributed consensus implementation</sub>
     </td>
     <td align="left">
-      Raft-backed state machine replication, leader election, log compaction, and deterministic fault tolerance under network partitions.
+      Raft-based consensus state machine managing leader election, log replication, and fault-tolerant state recovery across network partitions.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -120,48 +120,36 @@
   <img src="./assets/line.png" width="100%" />
 </p>
 
-## 🌐 Open Source Footprint (230+ PRs)
+## 🌐 Open Source Contributions
 
 <div align="center">
 <table width="100%">
   <tr>
-    <th width="32%" align="left">📂 Domain</th>
-    <th width="68%" align="left">🌟 Key Contributions &amp; Repositories</th>
+    <th width="32%" align="left">Category</th>
+    <th width="68%" align="left">Projects &amp; Contributions</th>
   </tr>
   <tr>
-    <td align="left"><b>🏎️ Storage &amp; Database Engines</b></td>
+    <td align="left"><b>Database &amp; Storage Engines</b></td>
     <td align="left">
       <a href="https://github.com/ClickHouse/ClickHouse" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-ClickHouse-F4CA16?style=flat-square&logo=clickhouse&logoColor=black" /></a>&nbsp;
-      <a href="https://github.com/facebookincubator/velox" target="_blank"><img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-      <br/><sub>Analytical execution kernels, memory managers, and vectorized query operators.</sub>
+      <a href="https://github.com/facebookincubator/velox" target="_blank"><img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" /></a>
+      <br/><sub>Contributed to query execution operators, memory management, and data processing routines.</sub>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>⚡ Compilers &amp; SIMD Acceleration</b></td>
+    <td align="left"><b>Core Systems &amp; Performance Libraries</b></td>
     <td align="left">
       <a href="https://github.com/simdjson/simdjson" target="_blank"><img src="https://img.shields.io/badge/simdjson-SIMD_JSON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/simdutf/simdutf" target="_blank"><img src="https://img.shields.io/badge/simdutf-Unicode_Transcoder-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
       <a href="https://github.com/tensorflow/tensorflow" target="_blank"><img src="https://img.shields.io/badge/Google-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
-      <br/><sub>AVX-512 / ARM Neon vectorization, unicode transcoding pipelines, and kernel optimizations.</sub>
+      <br/><sub>Parser vectorization optimizations, model runtime execution, and library performance improvements.</sub>
     </td>
   </tr>
   <tr>
-    <td align="left"><b>☁️ Cloud-Native &amp; Infrastructure</b></td>
+    <td align="left"><b>Cloud-Native &amp; Infrastructure</b></td>
     <td align="left">
-      <a href="https://github.com/stakater/Reloader" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/oras-project/oras" target="_blank"><img src="https://img.shields.io/badge/ORAS-Artifact_Spec-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/checkstyle/checkstyle" target="_blank"><img src="https://img.shields.io/badge/Checkstyle-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
-      <br/><sub>OCI container artifact specs, controller reconciliation, and static analysis tooling.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>🌐 Web Ecosystem &amp; Frameworks</b></td>
-    <td align="left">
-      <a href="https://github.com/TanStack/query" target="_blank"><img src="https://img.shields.io/badge/TanStack-Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/zen-browser/desktop" target="_blank"><img src="https://img.shields.io/badge/Zen_Browser-Desktop-FF7139?style=flat-square&logo=firefox&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/fastify/fastify" target="_blank"><img src="https://img.shields.io/badge/Fastify-Framework-black?style=flat-square&logo=fastify&logoColor=white" /></a>
-      <br/><sub>Async state management, high-performance HTTP pipelines, and modern browser internals.</sub>
+      <a href="https://github.com/stakater/Reloader" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+      <br/><sub>Kubernetes controller reconciliation, automated secret rollouts, and configuration lifecycle.</sub>
     </td>
   </tr>
 </table>
@@ -219,15 +207,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.png" width="100%" alt="owl footer" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ramillahrushikesh@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/>
-  </a>
+  <img src="./assets/footer_v3.png" width="100%" alt="footer" />
 </p>
