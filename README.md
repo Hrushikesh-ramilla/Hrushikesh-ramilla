@@ -1,59 +1,59 @@
 <p align="center">
-  <img src="./assets/hero_v3.png" width="100%" alt="terminal hero" />
+  <img src="./assets/hero_v4.png" width="100%" alt="terminal hero" />
 </p>
 
 <p align="center">
   <a href="https://hrushikeshramilla.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" height="34" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-E9E5DA?style=for-the-badge&logo=google-chrome&logoColor=111111" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hrushikesh-ramilla-7790772b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" height="34" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile_↗-141517?style=for-the-badge&logo=linkedin&logoColor=DEC5A7" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ramillahrushikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello_↗-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" height="34" />
+    <img src="https://img.shields.io/badge/Say_Hello_↗-141517?style=for-the-badge&logo=gmail&logoColor=DEC5A7" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=38BDF8&style=for-the-badge" height="34" />
+  <img src="https://komarev.com/ghpvc/?username=Hrushikesh-ramilla&label=profile_views&color=DEC5A7&style=for-the-badge" height="34" />
 </p>
 
 <p align="center">
-  <img src="./assets/line.png" width="100%" />
+  <img src="./assets/line_v4.png" width="100%" />
 </p>
 
 ## ⚡ Algorithms & Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%202255-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
+    <img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%202255-DEC5A7?style=for-the-badge&logo=leetcode&logoColor=111111" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/101Noir" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Candidate%20Master%20%7C%201965-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Codeforces-Candidate%20Master%20%7C%201965-141517?style=for-the-badge&logo=codeforces&logoColor=F6F5F1" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5%E2%98%85%20%7C%202081-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/CodeChef-5%E2%98%85%20%7C%202081-222326?style=for-the-badge&logo=codechef&logoColor=DEC5A7" height="30"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/HrushikeshRamilla/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=0D1117&titleColor=38BDF8&textColor=94A3B8" height="195"/>
+    <img src="https://leetcard.jacoblin.cool/HrushikeshRamilla?ext=contest&border=0&title=&bg=141517&titleColor=DEC5A7&textColor=D1C7BB" height="195"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/101Noir" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=0D1117&disable_animations=true" height="195"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=101Noir&title=&bg_color=141517&title_color=DEC5A7&text_color=D1C7BB&border_color=242220&disable_animations=true" height="195"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=0D1117&fire=38BDF8&ring=818CF8&currStreakNum=FFFFFF&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=141517&fire=DEC5A7&ring=DEC5A7&currStreakNum=FAF8F5&sideNums=D1C7BB&sideLabels=A8927D&dates=8C8275&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="./assets/line.png" width="100%" />
+  <img src="./assets/line_v4.png" width="100%" />
 </p>
 
 ## 🌐 Open Source Contributions
@@ -67,24 +67,24 @@
   <tr>
     <td align="left"><b>Database &amp; Storage Engines</b></td>
     <td align="left">
-      <a href="https://github.com/ClickHouse/ClickHouse" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-ClickHouse-F4CA16?style=flat-square&logo=clickhouse&logoColor=black" /></a>&nbsp;
-      <a href="https://github.com/facebookincubator/velox" target="_blank"><img src="https://img.shields.io/badge/Meta-Velox-0866FF?style=flat-square&logo=meta&logoColor=white" /></a>
+      <a href="https://github.com/ClickHouse/ClickHouse" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-ClickHouse-1A1B1D?style=flat-square&logo=clickhouse&logoColor=DEC5A7" /></a>&nbsp;
+      <a href="https://github.com/facebookincubator/velox" target="_blank"><img src="https://img.shields.io/badge/Meta-Velox-1A1B1D?style=flat-square&logo=meta&logoColor=DEC5A7" /></a>
       <br/><sub>Contributed to query execution operators, memory management, and data processing routines.</sub>
     </td>
   </tr>
   <tr>
     <td align="left"><b>Core Systems &amp; Performance Libraries</b></td>
     <td align="left">
-      <a href="https://github.com/simdjson/simdjson" target="_blank"><img src="https://img.shields.io/badge/simdjson-SIMD_JSON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-Inference-black?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
-      <a href="https://github.com/tensorflow/tensorflow" target="_blank"><img src="https://img.shields.io/badge/Google-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+      <a href="https://github.com/simdjson/simdjson" target="_blank"><img src="https://img.shields.io/badge/simdjson-SIMD_JSON-1A1B1D?style=flat-square&logo=c%2B%2B&logoColor=DEC5A7" /></a>&nbsp;
+      <a href="https://github.com/ggerganov/llama.cpp" target="_blank"><img src="https://img.shields.io/badge/llama.cpp-Inference-1A1B1D?style=flat-square&logo=c%2B%2B&logoColor=DEC5A7" /></a>&nbsp;
+      <a href="https://github.com/tensorflow/tensorflow" target="_blank"><img src="https://img.shields.io/badge/Google-TensorFlow-1A1B1D?style=flat-square&logo=tensorflow&logoColor=DEC5A7" /></a>
       <br/><sub>Parser vectorization optimizations, model runtime execution, and library performance improvements.</sub>
     </td>
   </tr>
   <tr>
     <td align="left"><b>Cloud-Native &amp; Infrastructure</b></td>
     <td align="left">
-      <a href="https://github.com/stakater/Reloader" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-Reloader-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+      <a href="https://github.com/stakater/Reloader" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-Reloader-1A1B1D?style=flat-square&logo=kubernetes&logoColor=DEC5A7" /></a>
       <br/><sub>Kubernetes controller reconciliation, automated secret rollouts, and configuration lifecycle.</sub>
     </td>
   </tr>
@@ -92,7 +92,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line.png" width="100%" />
+  <img src="./assets/line_v4.png" width="100%" />
 </p>
 
 ## 💻 Technical Arsenal
@@ -139,9 +139,9 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line.png" width="100%" />
+  <img src="./assets/line_v4.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/footer_v3.png" width="100%" alt="footer" />
+  <img src="./assets/footer_v4.png" width="100%" alt="footer" />
 </p>
