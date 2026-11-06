@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero_animated.svg" width="100%" alt="terminal hero animated" />
+  <img src="./assets/hero_animated.svg" width="100%" alt="terminal hero" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/line_animated.svg" width="100%" />
+  <img src="./assets/anim_wave.svg" width="100%" alt="frequency waveform divider" />
 </p>
 
 ## ⚡ Algorithms & Competitive Programming
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/line_animated.svg" width="100%" />
+  <img src="./assets/anim_nodes.svg" width="100%" alt="constellation node divider" />
 </p>
 
 ## 🌐 Open Source Contributions
@@ -92,7 +92,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line_animated.svg" width="100%" />
+  <img src="./assets/anim_collision.svg" width="100%" alt="colliding laser divider" />
 </p>
 
 ## 💻 Technical Arsenal
@@ -139,7 +139,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/line_animated.svg" width="100%" />
+  <img src="./assets/anim_wave.svg" width="100%" alt="waveform divider" />
 </p>
 
 <p align="center">

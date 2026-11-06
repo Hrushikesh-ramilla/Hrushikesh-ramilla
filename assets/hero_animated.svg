@@ -1,88 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 215" width="850" height="215" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 205" width="850" height="205" fill="none">
   <defs>
-    <!-- 3D Slab Depth Shadow -->
-    <filter id="slabShadow" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000000" flood-opacity="0.9"/>
-    </filter>
-
-    <!-- Slab Background Gradient -->
-    <linearGradient id="slabFace" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#151618"/>
-      <stop offset="100%" stop-color="#0C0D0E"/>
+    <linearGradient id="termFace" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141517"/>
+      <stop offset="100%" stop-color="#0E0F10"/>
     </linearGradient>
 
-    <!-- 3D Beveled Edge Gradient -->
-    <linearGradient id="bevelBorder" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#4A4237"/>
-      <stop offset="50%" stop-color="#26231E"/>
-      <stop offset="100%" stop-color="#181614"/>
+    <!-- GPU-Accelerated Smooth Breathing Border (No lag, pure opacity) -->
+    <linearGradient id="breathingBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0.35">
+        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.85">
+        <animate attributeName="stop-opacity" values="0.85;0.4;0.85" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0.35">
+        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-
-    <!-- Orbiting Beam of Light Gradient -->
-    <linearGradient id="orbitBeam" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#DEC5A7" stop-opacity="0.7"/>
-      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="1"/>
-      <stop offset="75%" stop-color="#DEC5A7" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Neon Glow Filter -->
-    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Base 3D Slab with Depth Shadow -->
-  <rect x="3" y="3" width="844" height="204" rx="12" fill="url(#slabFace)" stroke="url(#bevelBorder)" stroke-width="3" filter="url(#slabShadow)"/>
-
-  <!-- Thick Traveling Beam Circumnavigating the Entire Slab Perimeter -->
-  <!-- Perimeter = 2 * (844 + 204) = 2096 -->
-  <rect x="3" y="3" width="844" height="204" rx="12" fill="none" stroke="url(#orbitBeam)" stroke-width="3.5" stroke-dasharray="220 1876" stroke-linecap="round" filter="url(#neonGlow)">
-    <animate attributeName="stroke-dashoffset" from="2096" to="0" dur="6s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Clean Hardware-Accelerated 3D Slab Base -->
+  <rect x="2" y="3" width="846" height="200" rx="10" fill="#080809" opacity="0.6"/>
+  <rect x="2" y="2" width="846" height="200" rx="10" fill="url(#termFace)" stroke="url(#breathingBorder)" stroke-width="1.8"/>
 
   <!-- Top Bar -->
-  <path d="M 4 14 C 4 8.5 8.5 4 14 4 L 836 4 C 841.5 4 846 8.5 846 14 L 846 35 L 4 35 Z" fill="#1A1B1D"/>
-  <line x1="4" y1="35" x2="846" y2="35" stroke="#2B2722" stroke-width="1.2"/>
+  <path d="M 3 12 C 3 7 7 3 12 3 L 838 3 C 843 3 847 7 847 12 L 847 34 L 3 34 Z" fill="#18191B"/>
+  <line x1="3" y1="34" x2="847" y2="34" stroke="#282622" stroke-width="1"/>
 
-  <!-- Window Dots -->
-  <circle cx="24" cy="19" r="5" fill="#A8927D" fill-opacity="0.8"/>
-  <circle cx="40" cy="19" r="5" fill="#DEC5A7" fill-opacity="0.8"/>
-  <circle cx="56" cy="19" r="5" fill="#F6F5F1" fill-opacity="0.95">
-    <animate attributeName="fill-opacity" values="0.95;0.35;0.95" dur="2s" repeatCount="indefinite"/>
+  <!-- Window Dots with Smooth Breathing Status -->
+  <circle cx="22" cy="18" r="5" fill="#A8927D" fill-opacity="0.8"/>
+  <circle cx="38" cy="18" r="5" fill="#DEC5A7" fill-opacity="0.8"/>
+  <circle cx="54" cy="18" r="5" fill="#F6F5F1">
+    <animate attributeName="fill-opacity" values="0.95;0.3;0.95" dur="2s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Title -->
-  <text x="425" y="23" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="12" font-weight="500" letter-spacing="0.5" text-anchor="middle">hrushikesh@desktop: ~ (bash)</text>
+  <text x="425" y="22" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="12" font-weight="500" letter-spacing="0.5" text-anchor="middle">hrushikesh@desktop: ~ (bash)</text>
 
   <!-- Commands & Output -->
   <g font-family="'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13">
-    <text x="30" y="65" fill="#DEC5A7" font-weight="600">➜</text>
-    <text x="50" y="65" fill="#A8927D" font-weight="600">~</text>
-    <text x="68" y="65" fill="#F6F5F1">whoami</text>
-    <text x="30" y="89" fill="#F6F5F1" font-weight="600">Hrushikesh Ramilla</text>
-    <text x="189" y="89" fill="#A8927D">— Software Engineer (Backend &amp; Systems)</text>
+    <text x="28" y="62" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="48" y="62" fill="#A8927D" font-weight="600">~</text>
+    <text x="66" y="62" fill="#F6F5F1">whoami</text>
+    <text x="28" y="86" fill="#F6F5F1" font-weight="600">Hrushikesh Ramilla</text>
+    <text x="187" y="86" fill="#A8927D">— Software Engineer (Backend &amp; Systems)</text>
 
-    <text x="30" y="121" fill="#DEC5A7" font-weight="600">➜</text>
-    <text x="50" y="121" fill="#A8927D" font-weight="600">~</text>
-    <text x="68" y="121" fill="#F6F5F1">./summary.sh</text>
+    <text x="28" y="118" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="48" y="118" fill="#A8927D" font-weight="600">~</text>
+    <text x="66" y="118" fill="#F6F5F1">./summary.sh</text>
 
-    <text x="30" y="145" fill="#DEC5A7" font-weight="600">Focus</text>
-    <text x="109" y="145" fill="#F6F5F1">: Backend Development • Systems Engineering • System Design</text>
+    <text x="28" y="142" fill="#DEC5A7" font-weight="600">Focus</text>
+    <text x="107" y="142" fill="#F6F5F1">: Backend Development • Systems Engineering • System Design</text>
 
-    <text x="30" y="167" fill="#DEC5A7" font-weight="600">Languages</text>
-    <text x="109" y="167" fill="#F6F5F1">: C++, Go, Java, Python, TypeScript, SQL</text>
+    <text x="28" y="164" fill="#DEC5A7" font-weight="600">Languages</text>
+    <text x="107" y="164" fill="#F6F5F1">: C++, Go, Java, Python, TypeScript, SQL</text>
 
-    <text x="30" y="189" fill="#DEC5A7" font-weight="600">Interests</text>
-    <text x="109" y="189" fill="#F6F5F1">: Distributed Systems, Scalable Backends, Algorithms</text>
+    <text x="28" y="186" fill="#DEC5A7" font-weight="600">Interests</text>
+    <text x="107" y="186" fill="#F6F5F1">: Distributed Systems, Scalable Backends, Algorithms</text>
 
     <!-- Blinking Cursor -->
-    <rect x="529" y="177" width="8" height="14" fill="#DEC5A7">
+    <rect x="527" y="174" width="8" height="14" fill="#DEC5A7">
       <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
     </rect>
   </g>

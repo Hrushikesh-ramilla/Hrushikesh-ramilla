@@ -1,47 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 72" width="850" height="72" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 68" width="850" height="68" fill="none">
   <defs>
-    <!-- 3D Slab Depth Shadow -->
-    <filter id="footShadow" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#000000" flood-opacity="0.85"/>
-    </filter>
-
     <linearGradient id="footFace" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#151618"/>
-      <stop offset="100%" stop-color="#0C0D0E"/>
+      <stop offset="0%" stop-color="#141517"/>
+      <stop offset="100%" stop-color="#0E0F10"/>
     </linearGradient>
-
-    <linearGradient id="footBevel" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#4A4237"/>
-      <stop offset="50%" stop-color="#26231E"/>
-      <stop offset="100%" stop-color="#181614"/>
+    <linearGradient id="footGlowBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0.3">
+        <animate attributeName="stop-opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.75">
+        <animate attributeName="stop-opacity" values="0.75;0.35;0.75" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0.3">
+        <animate attributeName="stop-opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-
-    <linearGradient id="footOrbitBeam" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#DEC5A7" stop-opacity="0.7"/>
-      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="1"/>
-      <stop offset="75%" stop-color="#DEC5A7" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
-    </linearGradient>
-
-    <filter id="footGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Base 3D Slab -->
-  <rect x="3" y="3" width="844" height="64" rx="10" fill="url(#footFace)" stroke="url(#footBevel)" stroke-width="2.5" filter="url(#footShadow)"/>
+  <rect x="2" y="3" width="846" height="63" rx="10" fill="#080809" opacity="0.6"/>
+  <rect x="2" y="2" width="846" height="63" rx="10" fill="url(#footFace)" stroke="url(#footGlowBorder)" stroke-width="1.8"/>
 
-  <!-- Thick Traveling Beam Circumnavigating the Footer Perimeter -->
-  <!-- Perimeter = 2 * (844 + 64) = 1816 -->
-  <rect x="3" y="3" width="844" height="64" rx="10" fill="none" stroke="url(#footOrbitBeam)" stroke-width="3" stroke-dasharray="160 1656" stroke-linecap="round" filter="url(#footGlow)">
-    <animate attributeName="stroke-dashoffset" from="1816" to="0" dur="5s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Rotating Star Emblem -->
+  <g transform="translate(195, 30)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      <polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2" fill="#DEC5A7" opacity="0.8"/>
+    </g>
+  </g>
 
-  <text x="425" y="32" fill="#F6F5F1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="14" font-weight="600" text-anchor="middle">Open to Software Engineering &amp; Backend Opportunities 🦉</text>
-  <text x="425" y="52" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" text-anchor="middle">Feel free to explore my repositories or get in touch via LinkedIn and email above.</text>
+  <g transform="translate(655, 30)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+      <polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2" fill="#DEC5A7" opacity="0.8"/>
+    </g>
+  </g>
+
+  <text x="425" y="30" fill="#F6F5F1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="14" font-weight="600" text-anchor="middle">Open to Software Engineering &amp; Backend Opportunities 🦉</text>
+  <text x="425" y="50" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" text-anchor="middle">Feel free to explore my repositories or get in touch via LinkedIn and email above.</text>
 </svg>
