@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=DEC5A7&background=14151700&center=true&vCenter=true&width=750&height=45&lines=Software+Engineer+(Backend+%26+Systems);Distributed+Systems+%E2%80%A2+System+Design+%E2%80%A2+Scalable+Backends;C%2B%2B+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+SQL;Guardian+%40+LeetCode+(2255)+%E2%80%A2+Candidate+Master+%40+CF+(1965)" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://hrushikeshramilla.in" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio_Website_↗-E9E5DA?style=for-the-badge&logo=google-chrome&logoColor=111111" height="34" />
   </a>
@@ -54,16 +50,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hrushikesh-ramilla&theme=dark&background=141517&fire=DEC5A7&ring=DEC5A7&currStreakNum=FAF8F5&sideNums=D1C7BB&sideLabels=A8927D&dates=8C8275&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="./assets/line_animated.svg" width="100%" />
-</p>
-
-## 🐍 Contribution Stream
-
-<p align="center">
-  <img src="./assets/snake.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 <p align="center">
