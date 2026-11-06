@@ -5,33 +5,41 @@
       <stop offset="100%" stop-color="#0E0F10"/>
     </linearGradient>
 
-    <!-- GPU-Accelerated Smooth Breathing Border (No lag, pure opacity) -->
-    <linearGradient id="breathingBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0.35">
-        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.85">
-        <animate attributeName="stop-opacity" values="0.85;0.4;0.85" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0.35">
-        <animate attributeName="stop-opacity" values="0.35;0.85;0.35" dur="4s" repeatCount="indefinite"/>
-      </stop>
+    <!-- 3D Beveled Base Edge -->
+    <linearGradient id="bevelBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3D372F"/>
+      <stop offset="100%" stop-color="#1A1815"/>
+    </linearGradient>
+
+    <!-- Sleek Rotating/Orbiting Beam of Light -->
+    <linearGradient id="orbitBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#DEC5A7" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#DEC5A7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Clean Hardware-Accelerated 3D Slab Base -->
+  <!-- 3D Slab Base Frame -->
   <rect x="2" y="3" width="846" height="200" rx="10" fill="#080809" opacity="0.6"/>
-  <rect x="2" y="2" width="846" height="200" rx="10" fill="url(#termFace)" stroke="url(#breathingBorder)" stroke-width="1.8"/>
+  <rect x="2" y="2" width="846" height="200" rx="10" fill="url(#termFace)" stroke="url(#bevelBorder)" stroke-width="2"/>
+
+  <!-- Rotating/Orbiting Beam of Light Circumnavigating the Entire Slab Perimeter (60fps, No Blur Lag) -->
+  <!-- Perimeter = 2 * (846 + 200) = 2092 -->
+  <rect x="2" y="2" width="846" height="200" rx="10" fill="none" stroke="url(#orbitBeam)" stroke-width="2.5" stroke-dasharray="220 1872" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="2092" to="0" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
 
   <!-- Top Bar -->
   <path d="M 3 12 C 3 7 7 3 12 3 L 838 3 C 843 3 847 7 847 12 L 847 34 L 3 34 Z" fill="#18191B"/>
   <line x1="3" y1="34" x2="847" y2="34" stroke="#282622" stroke-width="1"/>
 
-  <!-- Window Dots with Smooth Breathing Status -->
+  <!-- Window Dots -->
   <circle cx="22" cy="18" r="5" fill="#A8927D" fill-opacity="0.8"/>
   <circle cx="38" cy="18" r="5" fill="#DEC5A7" fill-opacity="0.8"/>
   <circle cx="54" cy="18" r="5" fill="#F6F5F1">
-    <animate attributeName="fill-opacity" values="0.95;0.3;0.95" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.95;0.35;0.95" dur="2s" repeatCount="indefinite"/>
   </circle>
 
   <!-- Title -->
