@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 16" width="850" height="16" fill="none">
+  <defs>
+    <linearGradient id="nodeLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#DEC5A7" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="0.6"/>
+      <stop offset="75%" stop-color="#DEC5A7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="50" y1="8" x2="800" y2="8" stroke="url(#nodeLine)" stroke-width="1.2"/>
+
+  <!-- 7 Sequential Data Bus Nodes with Cascading Light Pulse -->
+  <!-- Node 1 -->
+  <polygon points="265,5 268,8 265,11 262,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="0s"/>
+  </polygon>
+  <!-- Node 2 -->
+  <polygon points="315,5 318,8 315,11 312,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="0.3s"/>
+  </polygon>
+  <!-- Node 3 -->
+  <polygon points="365,5 368,8 365,11 362,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="0.6s"/>
+  </polygon>
+  <!-- Node 4 (Center - Large) -->
+  <polygon points="425,3 430,8 425,13 420,8" fill="#F6F5F1">
+    <animate attributeName="fill-opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite" begin="0.9s"/>
+  </polygon>
+  <!-- Node 5 -->
+  <polygon points="485,5 488,8 485,11 482,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="1.2s"/>
+  </polygon>
+  <!-- Node 6 -->
+  <polygon points="535,5 538,8 535,11 532,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="1.5s"/>
+  </polygon>
+  <!-- Node 7 -->
+  <polygon points="585,5 588,8 585,11 582,8" fill="#DEC5A7">
+    <animate attributeName="fill-opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="1.8s"/>
+  </polygon>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 20" width="850" height="20" fill="none">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#DEC5A7" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#DEC5A7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background guide line -->
+  <line x1="0" y1="10" x2="850" y2="10" stroke="#252422" stroke-width="1"/>
+
+  <!-- Dynamic Pulsing Frequency Waveform Path -->
+  <path stroke="url(#waveGrad)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="M 0 10 L 320 10 Q 370 10 395 10 L 410 7 L 420 14 L 425 4 L 430 16 L 435 6 L 440 12 L 455 10 Q 480 10 530 10 L 850 10;
+              M 0 10 L 320 10 Q 370 10 395 10 L 410 3 L 420 18 L 425 1 L 430 19 L 435 2 L 440 15 L 455 10 Q 480 10 530 10 L 850 10;
+              M 0 10 L 320 10 Q 370 10 395 10 L 410 8 L 420 12 L 425 6 L 430 14 L 435 7 L 440 11 L 455 10 Q 480 10 530 10 L 850 10;
+              M 0 10 L 320 10 Q 370 10 395 10 L 410 7 L 420 14 L 425 4 L 430 16 L 435 6 L 440 12 L 455 10 Q 480 10 530 10 L 850 10" />
+  </path>
+
+  <!-- Central pulse gem -->
+  <circle cx="425" cy="10" r="2.5" fill="#F6F5F1">
+    <animate attributeName="r" values="2;4;2" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

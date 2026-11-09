@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 205" width="850" height="205" fill="none">
+  <defs>
+    <linearGradient id="termFace" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141517"/>
+      <stop offset="100%" stop-color="#0E0F10"/>
+    </linearGradient>
+
+    <!-- 3D Beveled Base Edge -->
+    <linearGradient id="bevelBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3D372F"/>
+      <stop offset="100%" stop-color="#1A1815"/>
+    </linearGradient>
+
+    <!-- Sleek Rotating/Orbiting Beam of Light -->
+    <linearGradient id="orbitBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#DEC5A7" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#F6F5F1" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#DEC5A7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#DEC5A7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 3D Slab Base Frame -->
+  <rect x="2" y="3" width="846" height="200" rx="10" fill="#080809" opacity="0.6"/>
+  <rect x="2" y="2" width="846" height="200" rx="10" fill="url(#termFace)" stroke="url(#bevelBorder)" stroke-width="2"/>
+
+  <!-- Rotating/Orbiting Beam of Light Circumnavigating the Entire Slab Perimeter (60fps, No Blur Lag) -->
+  <!-- Perimeter = 2 * (846 + 200) = 2092 -->
+  <rect x="2" y="2" width="846" height="200" rx="10" fill="none" stroke="url(#orbitBeam)" stroke-width="2.5" stroke-dasharray="220 1872" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="2092" to="0" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Top Bar -->
+  <path d="M 3 12 C 3 7 7 3 12 3 L 838 3 C 843 3 847 7 847 12 L 847 34 L 3 34 Z" fill="#18191B"/>
+  <line x1="3" y1="34" x2="847" y2="34" stroke="#282622" stroke-width="1"/>
+
+  <!-- Window Dots -->
+  <circle cx="22" cy="18" r="5" fill="#A8927D" fill-opacity="0.8"/>
+  <circle cx="38" cy="18" r="5" fill="#DEC5A7" fill-opacity="0.8"/>
+  <circle cx="54" cy="18" r="5" fill="#F6F5F1">
+    <animate attributeName="fill-opacity" values="0.95;0.35;0.95" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="425" y="22" fill="#A8927D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', serif" font-size="12" font-weight="500" letter-spacing="0.5" text-anchor="middle">hrushikesh@desktop: ~ (bash)</text>
+
+  <!-- Commands & Output -->
+  <g font-family="'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="13">
+    <text x="28" y="62" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="48" y="62" fill="#A8927D" font-weight="600">~</text>
+    <text x="66" y="62" fill="#F6F5F1">whoami</text>
+    <text x="28" y="86" fill="#F6F5F1" font-weight="600">Hrushikesh Ramilla</text>
+    <text x="187" y="86" fill="#A8927D">— Software Engineer (Backend &amp; Systems)</text>
+
+    <text x="28" y="118" fill="#DEC5A7" font-weight="600">➜</text>
+    <text x="48" y="118" fill="#A8927D" font-weight="600">~</text>
+    <text x="66" y="118" fill="#F6F5F1">./summary.sh</text>
+
+    <text x="28" y="142" fill="#DEC5A7" font-weight="600">Focus</text>
+    <text x="107" y="142" fill="#F6F5F1">: Backend Development • Systems Engineering • System Design</text>
+
+    <text x="28" y="164" fill="#DEC5A7" font-weight="600">Languages</text>
+    <text x="107" y="164" fill="#F6F5F1">: C++, Go, Java, Python, TypeScript, SQL</text>
+
+    <text x="28" y="186" fill="#DEC5A7" font-weight="600">Interests</text>
+    <text x="107" y="186" fill="#F6F5F1">: Distributed Systems, Scalable Backends, Algorithms</text>
+
+    <!-- Blinking Cursor -->
+    <rect x="527" y="174" width="8" height="14" fill="#DEC5A7">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

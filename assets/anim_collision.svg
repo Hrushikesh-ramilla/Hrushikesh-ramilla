@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 14" width="850" height="14" fill="none">
+  <defs>
+    <linearGradient id="leftRay" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F6F5F1" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="rightRay" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#DEC5A7" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F6F5F1" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Track Line -->
+  <line x1="0" y1="7" x2="850" y2="7" stroke="#252422" stroke-width="1"/>
+
+  <!-- Left Ray gliding Inward -->
+  <line y1="7" y2="7" stroke="url(#leftRay)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="50;380;50" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="150;425;150" dur="3.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Right Ray gliding Inward -->
+  <line y1="7" y2="7" stroke="url(#rightRay)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="800;470;800" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="700;425;700" dur="3.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Impact Spark Flash at Center -->
+  <circle cx="425" cy="7" r="3" fill="#F6F5F1">
+    <animate attributeName="fill-opacity" values="0.1;0.1;1;0.1" keyTimes="0;0.45;0.5;1" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="1;1;4;1" keyTimes="0;0.45;0.5;1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
